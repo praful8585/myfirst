@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: shop # this is the source_name
+    database: MY_DATABASE
+    schema: SCHEMA1
+
+    tables:
+      - name: EMP_TABLE # this is the table_name
+ 

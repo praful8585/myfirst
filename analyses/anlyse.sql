@@ -1,0 +1,1 @@
+select * from MY_DATABASE.PRAT1.DATE_TABLE
